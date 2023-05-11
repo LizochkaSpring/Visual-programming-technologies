@@ -1,0 +1,12 @@
+D:\программы на C#\лаба1\bin\Debug\лаба1.exe.config
+D:\программы на C#\лаба1\bin\Debug\лаба1.exe
+D:\программы на C#\лаба1\bin\Debug\лаба1.pdb
+D:\программы на C#\лаба1\obj\Debug\лаба1.csproj.AssemblyReference.cache
+D:\программы на C#\лаба1\obj\Debug\лаба1.csproj.SuggestedBindingRedirects.cache
+D:\программы на C#\лаба1\obj\Debug\лаба1.Form1.resources
+D:\программы на C#\лаба1\obj\Debug\лаба1.Form2.resources
+D:\программы на C#\лаба1\obj\Debug\лаба1.Properties.Resources.resources
+D:\программы на C#\лаба1\obj\Debug\лаба1.csproj.GenerateResource.cache
+D:\программы на C#\лаба1\obj\Debug\лаба1.csproj.CoreCompileInputs.cache
+D:\программы на C#\лаба1\obj\Debug\лаба1.exe
+D:\программы на C#\лаба1\obj\Debug\лаба1.pdb
