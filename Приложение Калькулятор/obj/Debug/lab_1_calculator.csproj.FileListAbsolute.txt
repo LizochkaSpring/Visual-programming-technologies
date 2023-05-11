@@ -1,0 +1,12 @@
+D:\программы на C#\lab_1_calculator\bin\Debug\lab_1_calculator.exe.config
+D:\программы на C#\lab_1_calculator\bin\Debug\lab_1_calculator.exe
+D:\программы на C#\lab_1_calculator\bin\Debug\lab_1_calculator.pdb
+D:\программы на C#\lab_1_calculator\obj\Debug\lab_1_calculator.csproj.AssemblyReference.cache
+D:\программы на C#\lab_1_calculator\obj\Debug\lab_1_calculator.csproj.SuggestedBindingRedirects.cache
+D:\программы на C#\lab_1_calculator\obj\Debug\lab_1_calculator.Properties.Resources.resources
+D:\программы на C#\lab_1_calculator\obj\Debug\lab_1_calculator.csproj.GenerateResource.cache
+D:\программы на C#\lab_1_calculator\obj\Debug\lab_1_calculator.csproj.CoreCompileInputs.cache
+D:\программы на C#\lab_1_calculator\obj\Debug\lab_1_calculator.exe
+D:\программы на C#\lab_1_calculator\obj\Debug\lab_1_calculator.pdb
+D:\программы на C#\lab_1_calculator\obj\Debug\lab_1_calculator.Form1.resources
+D:\программы на C#\lab_1_calculator\obj\Debug\lab_1_calculator.Form2.resources
