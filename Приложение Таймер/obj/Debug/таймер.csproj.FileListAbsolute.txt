@@ -1,0 +1,11 @@
+D:\программы на C#\таймер\bin\Debug\таймер.exe.config
+D:\программы на C#\таймер\bin\Debug\таймер.exe
+D:\программы на C#\таймер\bin\Debug\таймер.pdb
+D:\программы на C#\таймер\obj\Debug\таймер.csproj.AssemblyReference.cache
+D:\программы на C#\таймер\obj\Debug\таймер.csproj.SuggestedBindingRedirects.cache
+D:\программы на C#\таймер\obj\Debug\таймер.Form1.resources
+D:\программы на C#\таймер\obj\Debug\таймер.Properties.Resources.resources
+D:\программы на C#\таймер\obj\Debug\таймер.csproj.GenerateResource.cache
+D:\программы на C#\таймер\obj\Debug\таймер.csproj.CoreCompileInputs.cache
+D:\программы на C#\таймер\obj\Debug\таймер.exe
+D:\программы на C#\таймер\obj\Debug\таймер.pdb
